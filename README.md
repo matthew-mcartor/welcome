@@ -11,6 +11,7 @@ I am a recent graduate from the University of Northern Colorado with a Bachelor'
 ## Unity "Makeup Shader" 
 
 https://github.com/matthew-mcartor/unity-shader
+
 <img src="images/Visual 1.png" height=300><img src="images/Visual 2.png" height=300>
 
 The above images show off a simple unity shader I made. Unity does not inherit multiple textures for a single material by default and the model only has one "zone" to apply a material, so I needed to create a way so that it would inherit both the skin texture and the makeup around the eyes in one material. It was coded in C#, the standard language for Unity projects.

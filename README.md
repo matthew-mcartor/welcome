@@ -9,3 +9,4 @@ I am a recent graduate from the University of Northern Colorado with a Bachelor'
 
 # Projects
 ## Unity "Makeup Shader"
+<img src="images/Visual1.png" height=300><img src="images/Visual2.png" height=300>
